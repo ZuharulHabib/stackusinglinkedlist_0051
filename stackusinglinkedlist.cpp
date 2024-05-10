@@ -77,7 +77,7 @@ int main() {
 		cout << " 3. Peek\n";
 		cout << " 4. Exit\n";
 		cout << " 5. Enter you choice: ";
-		cin >> choice;
+		cin >> choice; 
 
 		switch (choice) {
 		case 1: 
