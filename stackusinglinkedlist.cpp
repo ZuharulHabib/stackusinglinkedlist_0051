@@ -98,7 +98,7 @@ int main() {
 				stack.peek();
 			}
 			else {
-				cout << "Stack is empty. No top value." << endl;
+				cout << "Stack is empty. No top value." << endl; 
 			}
 			break;
 
